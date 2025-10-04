@@ -1,0 +1,8 @@
+{
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "reranker": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "top_k": 1,
+  "num_eval": 100,
+  "em": 57.99999999999999,
+  "f1": 62.73079050579051
+}

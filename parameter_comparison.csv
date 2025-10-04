@@ -1,0 +1,7 @@
+embedding_model,top_k,em,f1
+sentence-transformers/all-MiniLM-L6-v2,1,55.833333333333336,60.402642881809555
+sentence-transformers/all-MiniLM-L6-v2,3,38.333333333333336,42.28687817818252
+sentence-transformers/all-MiniLM-L6-v2,5,19.166666666666668,21.883684149988497
+sentence-transformers/all-mpnet-base-v2,1,55.00000000000001,59.35502383419051
+sentence-transformers/all-mpnet-base-v2,3,38.333333333333336,41.931178322482666
+sentence-transformers/all-mpnet-base-v2,5,19.166666666666668,21.295841437145786

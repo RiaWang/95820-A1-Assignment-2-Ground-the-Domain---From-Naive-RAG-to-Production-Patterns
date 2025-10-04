@@ -1,0 +1,20 @@
+{
+  "naive": {
+    "faithfulness": 0.5904255319148937,
+    "answer_relevancy": 0.7895108142719419,
+    "context_precision": 0.569999999943,
+    "context_recall": 0.5252525252525253
+  },
+  "enhanced": {
+    "faithfulness": 0.7588235294117647,
+    "answer_relevancy": 0.830986747112476,
+    "context_precision": 0.889999999911,
+    "context_recall": 0.81
+  },
+  "delta": {
+    "faithfulness": 0.168397997496871,
+    "answer_relevancy": 0.04147593284053408,
+    "context_precision": 0.319999999968,
+    "context_recall": 0.28474747474747475
+  }
+}
